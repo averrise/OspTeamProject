@@ -1,2 +1,0 @@
-# OspTeamProject
-using stable diffusion
